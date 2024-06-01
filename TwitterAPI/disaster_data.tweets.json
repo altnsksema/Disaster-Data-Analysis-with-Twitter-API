@@ -1,0 +1,1124 @@
+[{
+  "_id": {
+    "$oid": "664faeace1b5014073fff002"
+  },
+  "tweet_id": "1793738451407503491",
+  "creation_date": "Thu May 23 20:19:07 +0000 2024",
+  "text": "If America weren’t going to start WW3\n&amp; crash the Global economy this would be the most hilarious real life comedy ever.  https://t.co/DjUDpPFEZQ",
+  "media_url": [
+    "https://pbs.twimg.com/amplify_video_thumb/1792667235414077440/img/2_q7hTKtW7of7Yh-.jpg"
+  ],
+  "video_url": [
+    {
+      "content_type": "application/x-mpegURL",
+      "url": "https://video.twimg.com/amplify_video/1792667235414077440/pl/wCxe_Q1T-orxYgya.m3u8?tag=14&container=cmaf"
+    },
+    {
+      "bitrate": 632000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/1792667235414077440/vid/avc1/320x326/IGIOProTG8CoC_c3.mp4?tag=14"
+    },
+    {
+      "bitrate": 950000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/1792667235414077440/vid/avc1/480x490/yotf0h015Ad65NYw.mp4?tag=14"
+    },
+    {
+      "bitrate": 2176000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/1792667235414077440/vid/avc1/720x736/a5dFjgGlumv9AG2f.mp4?tag=14"
+    }
+  ],
+  "user": {
+    "creation_date": "Sat Jul 07 22:30:30 +0000 2012",
+    "user_id": "629698642",
+    "username": "BGatesIsaPyscho",
+    "name": "Concerned Citizen",
+    "follower_count": 349172,
+    "following_count": 4361,
+    "favourites_count": 31162,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": true,
+    "location": "Get a Warrant",
+    "profile_pic_url": "https://pbs.twimg.com/profile_images/1534905804368879621/R5xYZeL5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/629698642/1654897366",
+    "description": "UK & US Based Father, Conspiracy Realist/Coincidence Analyser, Data Interpreter, Reject Woke Ideology, Pronouns- Fu*k/Off, WEF -🖕, No mRNA, STOP GeoEngineering",
+    "external_url": null,
+    "number_of_tweets": 16192,
+    "bot": false,
+    "timestamp": 1341700230,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": false,
+    "listed_count": 1507,
+    "verified_type": null
+  },
+  "language": "en",
+  "favorite_count": 107,
+  "retweet_count": 42,
+  "reply_count": 10,
+  "quote_count": 7,
+  "retweet": false,
+  "views": 8297,
+  "timestamp": 1716495547,
+  "video_view_count": null,
+  "in_reply_to_status_id": null,
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/BackThebluecool/status/1792667299796930780/video/1",
+  "retweet_tweet_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/DjUDpPFEZQ",
+        "expanded_url": "https://twitter.com/BackThebluecool/status/1792667299796930780/video/1",
+        "id_str": "1792667235414077440",
+        "indices": [
+          126,
+          149
+        ],
+        "media_key": "13_1792667235414077440",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1792667235414077440/img/2_q7hTKtW7of7Yh-.jpg",
+        "source_status_id_str": "1792667299796930780",
+        "source_user_id_str": "1718706256238477312",
+        "type": "video",
+        "url": "https://t.co/DjUDpPFEZQ",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNzE4NzA2MjU2MjM4NDc3MzEy",
+                "rest_id": "1718706256238477312",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": true,
+                  "created_at": "Sun Oct 29 19:08:12 +0000 2023",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "Retired. 🇺🇸 Proud American Patriot. 🇺🇸 Turn on post 𝕏 notifications",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "t2t.org",
+                          "expanded_url": "http://www.t2t.org",
+                          "url": "https://t.co/fc5taS9uUy",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 45720,
+                  "followers_count": 11109,
+                  "friends_count": 7643,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 8,
+                  "location": "1 Police Plaza ",
+                  "media_count": 4627,
+                  "name": "CoolBlue",
+                  "normal_followers_count": 11109,
+                  "pinned_tweet_ids_str": [
+                    "1750576006065263034"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718706256238477312/1712618679",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765783378379395072/3E53agT6_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "BackThebluecool",
+                  "statuses_count": 19770,
+                  "translator_type": "none",
+                  "url": "https://t.co/fc5taS9uUy",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                }
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1104,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1104,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 665,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1104,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            45,
+            46
+          ],
+          "duration_millis": 15133,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1792667235414077440/pl/wCxe_Q1T-orxYgya.m3u8?tag=14&container=cmaf"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1792667235414077440/vid/avc1/320x326/IGIOProTG8CoC_c3.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1792667235414077440/vid/avc1/480x490/yotf0h015Ad65NYw.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1792667235414077440/vid/avc1/720x736/a5dFjgGlumv9AG2f.mp4?tag=14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conversation_id": "1793738451407503491",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 18,
+  "source": "Twitter for iPhone",
+  "community_note": null
+},
+{
+  "_id": {
+    "$oid": "664faeace1b5014073fff003"
+  },
+  "tweet_id": "1793665704526303627",
+  "creation_date": "Thu May 23 15:30:03 +0000 2024",
+  "text": "Crash is always hunting for wumpa 🍑 \n\n🎨 by @Jaq_artz https://t.co/pQF7Ubdngp",
+  "media_url": [
+    "https://pbs.twimg.com/media/GORhctuXUAAmfjG.jpg",
+    "https://pbs.twimg.com/media/GORhc9yWwAA442f.jpg"
+  ],
+  "video_url": null,
+  "user": {
+    "creation_date": "Thu Jul 14 19:21:13 +0000 2016",
+    "user_id": "753670706311815169",
+    "username": "ATVI_AB",
+    "name": "Activision Blizzard",
+    "follower_count": 222159,
+    "following_count": 57,
+    "favourites_count": 2522,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": false,
+    "location": "Santa Monica, CA",
+    "profile_pic_url": "https://pbs.twimg.com/profile_images/1668241711854764032/9iBQEGzW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/753670706311815169/1686574793",
+    "description": "We connect and engage the world through epic entertainment 🎮 @activision @blizzard_ent @king_games",
+    "external_url": null,
+    "number_of_tweets": 2613,
+    "bot": false,
+    "timestamp": 1468524073,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": false,
+    "listed_count": 1018,
+    "verified_type": "Business"
+  },
+  "language": "en",
+  "favorite_count": 560,
+  "retweet_count": 92,
+  "reply_count": 18,
+  "quote_count": 5,
+  "retweet": false,
+  "views": 18714,
+  "timestamp": 1716478203,
+  "video_view_count": null,
+  "in_reply_to_status_id": null,
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/ATVI_AB/status/1793665704526303627/photo/1",
+  "retweet_tweet_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/pQF7Ubdngp",
+        "expanded_url": "https://twitter.com/ATVI_AB/status/1793665704526303627/photo/1",
+        "id_str": "1793665697538592768",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_1793665697538592768",
+        "media_url_https": "https://pbs.twimg.com/media/GORhctuXUAAmfjG.jpg",
+        "type": "photo",
+        "url": "https://t.co/pQF7Ubdngp",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1260,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 739,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 418,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1858,
+          "width": 3019,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3019,
+              "h": 1691
+            },
+            {
+              "x": 806,
+              "y": 0,
+              "w": 1858,
+              "h": 1858
+            },
+            {
+              "x": 920,
+              "y": 0,
+              "w": 1630,
+              "h": 1858
+            },
+            {
+              "x": 1271,
+              "y": 0,
+              "w": 929,
+              "h": 1858
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 3019,
+              "h": 1858
+            }
+          ]
+        }
+      },
+      {
+        "display_url": "pic.twitter.com/pQF7Ubdngp",
+        "expanded_url": "https://twitter.com/ATVI_AB/status/1793665704526303627/photo/1",
+        "id_str": "1793665701850300416",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_1793665701850300416",
+        "media_url_https": "https://pbs.twimg.com/media/GORhc9yWwAA442f.jpg",
+        "type": "photo",
+        "url": "https://t.co/pQF7Ubdngp",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1126,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1056,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 598,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1126,
+          "width": 1280,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 185,
+              "w": 1280,
+              "h": 717
+            },
+            {
+              "x": 154,
+              "y": 0,
+              "w": 1126,
+              "h": 1126
+            },
+            {
+              "x": 240,
+              "y": 0,
+              "w": 988,
+              "h": 1126
+            },
+            {
+              "x": 453,
+              "y": 0,
+              "w": 563,
+              "h": 1126
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1280,
+              "h": 1126
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conversation_id": "1793665704526303627",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 17,
+  "source": "Sprinklr Publishing",
+  "community_note": null
+},
+{
+  "_id": {
+    "$oid": "664faeace1b5014073fff004"
+  },
+  "tweet_id": "1750499435644154086",
+  "creation_date": "Thu Jan 25 12:42:42 +0000 2024",
+  "text": "World Economic Forum founder, Klaus Schwab, applauds the Chinese Communist Party's brutal and authoritarian \"Covid control measures\", which included barricading people in their homes, forcibly relocating people to quarantine camps, and the wholesale slaughter of pets, among other things.\n\n\"[China's Covid control measures boosted] economic development, social dynamism, and international cooperation.\"\n\nSource: https://t.co/r65h907gKC\n\nFollow my backup account: @wide_awake_news\n\nSubscribe to me on Telegram: https://t.co/PCfPqqHrrw\n\nSubscribe to my newsletter, for daily email updates: https://t.co/lCHv5M6RdL",
+  "media_url": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1750488104836743168/pu/img/fbnEYuGvEUSWJXIb.jpg"
+  ],
+  "video_url": [
+    {
+      "content_type": "application/x-mpegURL",
+      "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/pl/WCfQ7_oBFKbzwLAb.m3u8?tag=12&container=cmaf"
+    },
+    {
+      "bitrate": 256000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/vid/avc1/480x270/xJnnoGdbMClWEIWC.mp4?tag=12"
+    },
+    {
+      "bitrate": 832000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/vid/avc1/640x360/TMuOqYzBmylyE-_X.mp4?tag=12"
+    },
+    {
+      "bitrate": 2176000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/vid/avc1/854x480/7uz2CkT8loqWJMK3.mp4?tag=12"
+    }
+  ],
+  "user": {
+    "creation_date": "Thu May 26 09:58:52 +0000 2022",
+    "user_id": "1529763962094596097",
+    "username": "wideawake_media",
+    "name": "Wide Awake Media",
+    "follower_count": 463386,
+    "following_count": 355,
+    "favourites_count": 222,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": true,
+    "location": "UK",
+    "profile_pic_url": "https://pbs.twimg.com/profile_images/1624380673933934592/sKyPr3FE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529763962094596097/1703704114",
+    "description": "Follow my backup account: @wide_awake_news\n\nEnable me to continue doing this (all t-shirts designed by me): https://t.co/YVlWNinTLl",
+    "external_url": "https://wideawake.clothing",
+    "number_of_tweets": 9744,
+    "bot": false,
+    "timestamp": 1653559132,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": false,
+    "listed_count": 1971,
+    "verified_type": null
+  },
+  "language": "en",
+  "favorite_count": 3679,
+  "retweet_count": 2449,
+  "reply_count": 676,
+  "quote_count": 224,
+  "retweet": false,
+  "views": 206638,
+  "timestamp": 1706186562,
+  "video_view_count": null,
+  "in_reply_to_status_id": null,
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/wideawake_media/status/1750499435644154086/video/1",
+  "retweet_tweet_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/HhlW2akogV",
+        "expanded_url": "https://twitter.com/wideawake_media/status/1750499435644154086/video/1",
+        "id_str": "1750488104836743168",
+        "indices": [
+          282,
+          305
+        ],
+        "media_key": "7_1750488104836743168",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1750488104836743168/pu/img/fbnEYuGvEUSWJXIb.jpg",
+        "type": "video",
+        "url": "https://t.co/HhlW2akogV",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 480,
+            "w": 854,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 480,
+            "w": 854,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 382,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 480,
+          "width": 854,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            427,
+            240
+          ],
+          "duration_millis": 42833,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/pl/WCfQ7_oBFKbzwLAb.m3u8?tag=12&container=cmaf"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/vid/avc1/480x270/xJnnoGdbMClWEIWC.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/vid/avc1/640x360/TMuOqYzBmylyE-_X.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1750488104836743168/pu/vid/avc1/854x480/7uz2CkT8loqWJMK3.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conversation_id": "1750499435644154086",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 411,
+  "source": "Twitter Web App",
+  "community_note": null
+},
+{
+  "_id": {
+    "$oid": "664faeace1b5014073fff005"
+  },
+  "tweet_id": "1789369804303786178",
+  "creation_date": "Sat May 11 18:59:40 +0000 2024",
+  "text": "When no one sees you, it's as if you're filling up all the space around and try to embrace the immensity.\n\n“Polarity”\n\nReal 2020 Quarantine art\n0,5 $ETH\n1/1 on FND\n🔗⤵️ https://t.co/RoFCv5LbBU",
+  "media_url": [
+    "https://pbs.twimg.com/media/GNUeWX8XoAAOPnb.jpg"
+  ],
+  "video_url": null,
+  "user": {
+    "creation_date": "Thu Mar 11 09:37:58 +0000 2021",
+    "user_id": "1369945301704978436",
+    "username": "MJuventa",
+    "name": "MilanaJuventa 🐾 Ordinals⚡️mjuventa.eth/tez",
+    "follower_count": 14894,
+    "following_count": 9773,
+    "favourites_count": 237309,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": false,
+    "location": "Metaverse",
+    "profile_pic_url": "https://pbs.twimg.com/profile_images/1643199334673182724/kfwb-DTQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369945301704978436/1680604344",
+    "description": "Prizewinning multidisciplinary #NFTartist #MJuventa🤌 Curator on @makersplace 💜 My art was shown in the Louvre twice 🤌 Check MJ #NFT https://t.co/hw2VYDMdQb",
+    "external_url": "http://mjuventa.com",
+    "number_of_tweets": 155041,
+    "bot": false,
+    "timestamp": 1615455478,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": false,
+    "listed_count": 106,
+    "verified_type": null
+  },
+  "language": "en",
+  "favorite_count": 30,
+  "retweet_count": 10,
+  "reply_count": 4,
+  "quote_count": 0,
+  "retweet": false,
+  "views": 344,
+  "timestamp": 1715453980,
+  "video_view_count": null,
+  "in_reply_to_status_id": null,
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/MJuventa/status/1789369804303786178/photo/1",
+  "retweet_tweet_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/RoFCv5LbBU",
+        "expanded_url": "https://twitter.com/MJuventa/status/1789369804303786178/photo/1",
+        "id_str": "1789369796682817536",
+        "indices": [
+          168,
+          191
+        ],
+        "media_key": "3_1789369796682817536",
+        "media_url_https": "https://pbs.twimg.com/media/GNUeWX8XoAAOPnb.jpg",
+        "type": "photo",
+        "url": "https://t.co/RoFCv5LbBU",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1440,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 844,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 478,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1440,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 1440
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1263,
+              "h": 1440
+            },
+            {
+              "x": 203,
+              "y": 0,
+              "w": 720,
+              "h": 1440
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1440
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conversation_id": "1789369804303786178",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 0,
+  "source": "Twitter for iPhone",
+  "community_note": null
+},
+{
+  "_id": {
+    "$oid": "664faeace1b5014073fff006"
+  },
+  "tweet_id": "1793680109070925996",
+  "creation_date": "Thu May 23 16:27:17 +0000 2024",
+  "text": "@lynk0x Fill yer boots with $BUSH. Lunching this weekend.\n#BUSH army going to set the #Solana #blockchain on fire!\n@BushOnSolana https://t.co/nhpmke6qvT https://t.co/eQkTYTdQU6",
+  "media_url": [
+    "https://pbs.twimg.com/media/GORuIblbwAMW0PN.jpg"
+  ],
+  "video_url": null,
+  "user": {
+    "creation_date": "Wed Sep 29 13:44:23 +0000 2021",
+    "user_id": "1443207312068337675",
+    "username": "BushOnSolana",
+    "name": "Bush On Solana",
+    "follower_count": 3532,
+    "following_count": 346,
+    "favourites_count": 1783,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": false,
+    "location": "https://t.me/+oXjCvhO4fHIyOTE1",
+    "profile_pic_url": "https://pbs.twimg.com/profile_images/1793270938450247680/4fgHshlG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443207312068337675/1716380922",
+    "description": "I used to like to shave my beaver, but now I let it completely hang-out, thanks to Bush on Solana\nThe secret is not to wax, but to grow organically, always!",
+    "external_url": "https://bushonsolana.com",
+    "number_of_tweets": 926,
+    "bot": false,
+    "timestamp": 1632923063,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": false,
+    "listed_count": 9,
+    "verified_type": null
+  },
+  "language": "en",
+  "favorite_count": 83,
+  "retweet_count": 79,
+  "reply_count": 85,
+  "quote_count": 0,
+  "retweet": false,
+  "views": 285,
+  "timestamp": 1716481637,
+  "video_view_count": null,
+  "in_reply_to_status_id": "1793649511614853449",
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/BushOnSolana/status/1793680109070925996/photo/1",
+  "retweet_tweet_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/eQkTYTdQU6",
+        "expanded_url": "https://twitter.com/BushOnSolana/status/1793680109070925996/photo/1",
+        "id_str": "1793679642723074051",
+        "indices": [
+          153,
+          176
+        ],
+        "media_key": "3_1793679642723074051",
+        "media_url_https": "https://pbs.twimg.com/media/GORuIblbwAMW0PN.jpg",
+        "type": "photo",
+        "url": "https://t.co/eQkTYTdQU6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1363,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 799,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 453,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1464,
+          "width": 2200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 208,
+              "w": 2200,
+              "h": 1232
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1464,
+              "h": 1464
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1284,
+              "h": 1464
+            },
+            {
+              "x": 18,
+              "y": 0,
+              "w": 732,
+              "h": 1464
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2200,
+              "h": 1464
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conversation_id": "1793649511614853449",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 76,
+  "source": "Twitter Web App",
+  "community_note": null
+},
+{
+  "_id": {
+    "$oid": "664faeace1b5014073fff007"
+  },
+  "tweet_id": "1778674881569161377",
+  "creation_date": "Fri Apr 12 06:41:52 +0000 2024",
+  "text": "Mmm fire bush  https://t.co/ad1EP80SCe",
+  "media_url": [],
+  "video_url": null,
+  "user": {
+    "creation_date": "Sat Jan 30 01:23:07 +0000 2021",
+    "user_id": "1355325580695236612",
+    "username": "UncleRi56420077",
+    "name": "Uncle Rich",
+    "follower_count": 72646,
+    "following_count": 836,
+    "favourites_count": 7856,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": false,
+    "location": "England, United Kingdom",
+    "profile_pic_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_banner_url": null,
+    "description": "Pleasuring myself daily. Just beatin' and retweetin'. Celebrate, don't denigrate. Bate, don’t hate. Respect the makers. Thanks for showing and sharing, guys.",
+    "external_url": null,
+    "number_of_tweets": 28106,
+    "bot": false,
+    "timestamp": 1611969787,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": true,
+    "listed_count": 182,
+    "verified_type": null
+  },
+  "language": "en",
+  "favorite_count": 1098,
+  "retweet_count": 237,
+  "reply_count": 7,
+  "quote_count": 1,
+  "retweet": false,
+  "views": 56416,
+  "timestamp": 1712904112,
+  "video_view_count": null,
+  "in_reply_to_status_id": null,
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/v_l_a_d_b/status/1778585909035729364/video/1",
+  "retweet_tweet_id": null,
+  "extended_entities": null,
+  "conversation_id": "1778674881569161377",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 252,
+  "source": "Twitter for iPad",
+  "community_note": null
+},
+{
+  "_id": {
+    "$oid": "664faeace1b5014073fff008"
+  },
+  "tweet_id": "1745441957671731315",
+  "creation_date": "Thu Jan 11 13:46:06 +0000 2024",
+  "text": "BREAKING: The World Economic Forum will be discussing “Disease X” on January 17, 2024 as part of their annual meeting in Davos. \n\n“With fresh warnings from the World Health Organization that an unknown “Disease X” could result in 20 times more fatalities than the coronavirus pandemic, what novel efforts are needed?”",
+  "media_url": [
+    "https://pbs.twimg.com/media/GDkONZIWsAAqGVO.jpg"
+  ],
+  "video_url": null,
+  "user": {
+    "creation_date": "Tue Nov 14 22:22:35 +0000 2017",
+    "user_id": "930561624875945989",
+    "username": "RealPatrickWebb",
+    "name": "Patrick Webb",
+    "follower_count": 89646,
+    "following_count": 520,
+    "favourites_count": 9896,
+    "is_private": null,
+    "is_verified": false,
+    "is_blue_verified": true,
+    "location": "",
+    "profile_pic_url": "https://pbs.twimg.com/profile_images/1651641002946338837/0FCteaLk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/930561624875945989/1714638510",
+    "description": "@leadingreport",
+    "external_url": null,
+    "number_of_tweets": 15579,
+    "bot": false,
+    "timestamp": 1510698155,
+    "has_nft_avatar": false,
+    "category": null,
+    "default_profile": true,
+    "default_profile_image": false,
+    "listed_count": 367,
+    "verified_type": null
+  },
+  "language": "en",
+  "favorite_count": 2672,
+  "retweet_count": 1563,
+  "reply_count": 610,
+  "quote_count": 438,
+  "retweet": false,
+  "views": 659729,
+  "timestamp": 1704980766,
+  "video_view_count": null,
+  "in_reply_to_status_id": null,
+  "quoted_status_id": null,
+  "binding_values": null,
+  "expanded_url": "https://twitter.com/RealPatrickWebb/status/1745441957671731315/photo/1",
+  "retweet_tweet_id": null,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/0aJHtsj23t",
+        "expanded_url": "https://twitter.com/RealPatrickWebb/status/1745441957671731315/photo/1",
+        "id_str": "1745441953829793792",
+        "indices": [
+          277,
+          300
+        ],
+        "media_key": "3_1745441953829793792",
+        "media_url_https": "https://pbs.twimg.com/media/GDkONZIWsAAqGVO.jpg",
+        "type": "photo",
+        "url": "https://t.co/0aJHtsj23t",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 749,
+            "w": 958,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 749,
+            "w": 958,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 532,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 749,
+          "width": 958,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 958,
+              "h": 536
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 657,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 958,
+              "h": 749
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conversation_id": "1745441957671731315",
+  "retweet_status": null,
+  "quoted_status": null,
+  "bookmark_count": 535,
+  "source": "Twitter for iPhone",
+  "community_note": null
+}]
